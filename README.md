@@ -1,6 +1,6 @@
 # Chuck Norris API.
 
-El ususario presiona el botón y se muestra una frase acerca del actor estadounidense Chuck Norris.
+El usuario presiona el botón y se muestra una frase acerca del actor estadounidense Chuck Norris.
 
 
 ## Construido con 🛠️
